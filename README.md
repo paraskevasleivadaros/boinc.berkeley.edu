@@ -1,5 +1,5 @@
 # boinc.berkeley.edu
-Installing boinc client on Google Cloud Platform
+Installing boinc client on Google Cloud Platform on a Ubuntu 18.04 LTS machine
 
 ## Installation
 - Step 1: Visit https://cloud.google.com/ and register for a Google Cloud account.
