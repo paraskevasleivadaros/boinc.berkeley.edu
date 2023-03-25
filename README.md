@@ -21,6 +21,7 @@ And that's it! Your virtual machine is now set up and ready to run BOINC.
 ```shell
 /etc/init.d/boinc-client start
 ```
+### Attach Projects
 ```shell
 /usr/bin/boinccmd --project_attach https://boinc.multi-pool.info/latinsquares/ 842120dd403ac41b60ab4a32775f2603
 /usr/bin/boinccmd --project_attach https://quchempedia.univ-angers.fr/athome/ c752c6639b380108a64512b0a533843e
@@ -55,6 +56,7 @@ And that's it! Your virtual machine is now set up and ready to run BOINC.
 /usr/bin/boinccmd --project_attach http://gerasim.boinc.ru/ 2e530ecea4643dbae647107f3c76b6d7   
 /usr/bin/boinccmd --project_attach https://csgrid.org/csg/ 05311aa911a22b5a4fce9b6fd88046cd 
 ```
+### Update Projects
 ```shell
 boinccmd --project https://boinc.multi-pool.info/latinsquares/ update
 boinccmd --project https://quchempedia.univ-angers.fr/athome/ update
