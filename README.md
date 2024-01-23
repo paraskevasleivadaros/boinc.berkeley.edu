@@ -1,4 +1,4 @@
-# boinc.berkeley.edu
+# 🔬 boinc.berkeley.edu
 Installing boinc client on Google Cloud Platform on a Ubuntu 20.04.06 LTS machine
 
 ## Installation
