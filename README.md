@@ -99,6 +99,3 @@ boinccmd --get_tasks | grep name
 /etc/init.d/boinc-client status
 boinccmd --get_state
 ```
-
-## Copyright & License
-[MIT](https://github.com/paraskevasleivadaros/boinc.berkeley.edu/blob/main/LICENSE)
