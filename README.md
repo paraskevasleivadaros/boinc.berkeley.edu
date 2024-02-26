@@ -58,38 +58,38 @@ sudo /usr/bin/boinccmd --project_attach https://csgrid.org/csg/ 05311aa911a22b5a
 ```
 ### Update Projects
 ```shell
-boinccmd --project https://boinc.multi-pool.info/latinsquares/ update
-boinccmd --project https://quchempedia.univ-angers.fr/athome/ update
-boinccmd --project https://minecraftathome.com/minecrafthome/ update
-boinccmd --project http://numberfields.asu.edu/NumberFields/ update
-boinccmd --project https://boinc.thesonntags.com/collatz/ update
-boinccmd --project https://milkyway.cs.rpi.edu/milkyway/ update
-boinccmd --project https://rake.boincfast.ru/rakesearch update
-boinccmd --project https://www.mlcathome.org/mlcathome/ update
-boinccmd --project http://escatter11.fullerton.edu/nfs/ update
-boinccmd --project https://lhcathome.cern.ch/lhcathome/ update
-boinccmd --project https://boinc.bakerlab.org/rosetta/ update
-boinccmd --project https://universeathome.pl/universe/ update 
-boinccmd --project https://www.worldcommunitygrid.org/ update
-boinccmd --project https://boinc.berkeley.edu/central/ update
-boinccmd --project https://www.climateprediction.net/ update 
-boinccmd --project http://srbase.my-firewall.org/sr5/ update
-boinccmd --project https://www.rechenkraft.net/yoyo/ update
-boinccmd --project https://boinc.loda-lang.org/loda/ update
-boinccmd --project https://denis.usj.es/denisathome/ update
-boinccmd --project https://boinc.progger.info/odlk/ update
-boinccmd --project https://setiathome.berkeley.edu/ update
-boinccmd --project http://www.cosmologyathome.org/ update
-boinccmd --project https://boinc.tacc.utexas.edu/ update
-boinccmd --project https://www.sidock.si/sidock update
-boinccmd --project https://root.ithena.net/usr/ update
-boinccmd --project https://einsteinathome.org/ update
-boinccmd --project http://asteroidsathome.net/ update
-boinccmd --project https://www.dhep.ga/boinc/ update
-boinccmd --project http://www.primegrid.com/ update
-boinccmd --project http://gerasim.boinc.ru/ update
-boinccmd --project https://www.gpugrid.net/ update
-boinccmd --project https://csgrid.org/csg/ update
+sudo boinccmd --project https://boinc.multi-pool.info/latinsquares/ update
+sudo boinccmd --project https://quchempedia.univ-angers.fr/athome/ update
+sudo boinccmd --project https://minecraftathome.com/minecrafthome/ update
+sudo boinccmd --project http://numberfields.asu.edu/NumberFields/ update
+sudo boinccmd --project https://boinc.thesonntags.com/collatz/ update
+sudo boinccmd --project https://milkyway.cs.rpi.edu/milkyway/ update
+sudo boinccmd --project https://rake.boincfast.ru/rakesearch update
+sudo boinccmd --project https://www.mlcathome.org/mlcathome/ update
+sudo boinccmd --project http://escatter11.fullerton.edu/nfs/ update
+sudo boinccmd --project https://lhcathome.cern.ch/lhcathome/ update
+sudo boinccmd --project https://boinc.bakerlab.org/rosetta/ update
+sudo boinccmd --project https://universeathome.pl/universe/ update 
+sudo boinccmd --project https://www.worldcommunitygrid.org/ update
+sudo boinccmd --project https://boinc.berkeley.edu/central/ update
+sudo boinccmd --project https://www.climateprediction.net/ update 
+sudo boinccmd --project http://srbase.my-firewall.org/sr5/ update
+sudo boinccmd --project https://www.rechenkraft.net/yoyo/ update
+sudo boinccmd --project https://boinc.loda-lang.org/loda/ update
+sudo boinccmd --project https://denis.usj.es/denisathome/ update
+sudo boinccmd --project https://boinc.progger.info/odlk/ update
+sudo boinccmd --project https://setiathome.berkeley.edu/ update
+sudo boinccmd --project http://www.cosmologyathome.org/ update
+sudo boinccmd --project https://boinc.tacc.utexas.edu/ update
+sudo boinccmd --project https://www.sidock.si/sidock update
+sudo boinccmd --project https://root.ithena.net/usr/ update
+sudo boinccmd --project https://einsteinathome.org/ update
+sudo boinccmd --project http://asteroidsathome.net/ update
+sudo boinccmd --project https://www.dhep.ga/boinc/ update
+sudo boinccmd --project http://www.primegrid.com/ update
+sudo boinccmd --project http://gerasim.boinc.ru/ update
+sudo boinccmd --project https://www.gpugrid.net/ update
+sudo boinccmd --project https://csgrid.org/csg/ update
 ```
 
 ## Useful Commands
