@@ -19,7 +19,7 @@ And that's it! Your virtual machine is now set up and ready to run BOINC.
 
 ## Configuraton
 ```shell
-/etc/init.d/boinc-client start
+sudo /etc/init.d/boinc-client start
 ```
 ### Attach Projects
 ```shell
