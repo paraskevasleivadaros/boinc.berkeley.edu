@@ -92,6 +92,11 @@ sudo boinccmd --project https://www.gpugrid.net/ update
 sudo boinccmd --project https://csgrid.org/csg/ update
 ```
 
+CPU usage should be 100% if everything is setup correctly:
+```shell
+top
+```
+
 ## Useful Commands
 ```shell
 sudo /usr/bin/boinccmd --get_project_status | grep "master URL"
