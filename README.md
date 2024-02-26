@@ -12,8 +12,8 @@ Installing boinc client on Google Cloud Platform on a Ubuntu 20.04.06 LTS machin
 - Step 8: In the terminal, run the following commands to update, upgrade, and install BOINC:
 ```
 sudo apt update
-sudo apt upgrade
-sudo apt install boinc
+sudo apt -y upgrade
+sudo apt -y install boinc
 ```
 And that's it! Your virtual machine is now set up and ready to run BOINC.
 
