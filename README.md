@@ -97,5 +97,5 @@ sudo boinccmd --project https://csgrid.org/csg/ update
 /usr/bin/boinccmd --get_project_status | grep "master URL"
 boinccmd --get_tasks | grep name
 /etc/init.d/boinc-client status
-boinccmd --get_state
+boinccmd --get_state | more
 ```
